@@ -35,10 +35,13 @@ Bukti berhasil melakuakan edit pada kode Home dengan memanfaatkan komponen Profi
 <!-- ![alt text](asset-report/01.png) -->
 
 ## Jawaban Soal 2
-syntax import { Gallery } from "@/components/gallery"; merupakan pernyataan named imports. Selain itu, pada file gallery.tsx melakukan default import dari file profile.tsx, kemudian di file ini juga terdapat named function dengan nama Gallery yang berisikan pemanggilan dari function Profile
+Syntax `import { Gallery } from "@/components/gallery";` merupakan pernyataan named imports. Selain itu, pada file gallery.tsx melakukan default import dari file profile.tsx, kemudian di file ini juga terdapat named function dengan nama Gallery yang berisikan pemanggilan dari function Profile
 ![alt text](image-3.png)
 
 ## Jawaban Soal 3
+![alt text](image-5.png)
+![alt text](image-6.png)
+Kita dapat memperbaiki kodenya dengan cara mengganti tag div dengan `fragment <></>`. Selain itu, terdapat error yaitu pada kode `<b> Juga ada <i>foto</b></i> ilmuwan!` seharusnya diperbaiki menjadi `<b>Juga ada <i>foto</i></b> ilmuwan!`
 
 
 
