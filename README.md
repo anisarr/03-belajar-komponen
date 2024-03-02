@@ -31,4 +31,14 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Jawaban Soal 1
 Bukti berhasil melakuakan edit pada kode Home dengan memanfaatkan komponen Profile()
-![alt text](asset-report/01.png)
+![alt text](image-4.png)
+<!-- ![alt text](asset-report/01.png) -->
+
+## Jawaban Soal 2
+syntax import { Gallery } from "@/components/gallery"; merupakan pernyataan named imports. Selain itu, pada file gallery.tsx melakukan default import dari file profile.tsx, kemudian di file ini juga terdapat named function dengan nama Gallery yang berisikan pemanggilan dari function Profile
+![alt text](image-3.png)
+
+## Jawaban Soal 3
+
+
+
