@@ -39,9 +39,14 @@ Syntax `import { Gallery } from "@/components/gallery";` merupakan pernyataan na
 ![alt text](image-3.png)
 
 ## Jawaban Soal 3
+Berikut merupakan hasil dari perbaikan kode pada soal no.3
 ![alt text](image-5.png)
 ![alt text](image-6.png)
-Kita dapat memperbaiki kodenya dengan cara mengganti tag div dengan `fragment <></>`. Selain itu, terdapat error yaitu pada kode `<b> Juga ada <i>foto</b></i> ilmuwan!` seharusnya diperbaiki menjadi `<b>Juga ada <i>foto</i></b> ilmuwan!`
+
+Kita dapat memperbaiki kodenya dengan cara mengganti tag div dengan `fragment`. Selain itu, terdapat error yaitu pada kode `<b> Juga ada <i>foto</b></i> ilmuwan!` seharusnya diperbaiki menjadi `<b>Juga ada <i>foto</i></b> ilmuwan!`
 
 
 
+## Jawaban Soal 4
+![alt text](image-7.png)
+Kode diatas dapat diperbaiki dengan cara menambahkan `fragment` dan menambahkan `{person.theme}` ke dalam element `style` pada tag `h1`. Kemudian untuk memanggil nama pada element person bisa diperbaiki dengan cara `{person.name}`.

@@ -1,5 +1,6 @@
-import Bio from "@/components/bio";
+// import Bio from "@/components/bio";
 // import { Gallery } from "@/components/gallery";
+import Todolist from "@/components/todolist";
 
 export default function Home() {
   return (
@@ -8,7 +9,8 @@ export default function Home() {
       <div style = {{ textAlign: 'center' }}>
          {/* <h1> Ilmuwan yang luar biasa</h1> */}
       </div>
-        <Bio />
+        <Todolist />
+        {/* <Bio /> */}
       {/* <Gallery /> */}
 
     </main>
