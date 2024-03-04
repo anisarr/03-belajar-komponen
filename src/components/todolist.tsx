@@ -1,8 +1,10 @@
 import React from "react";
 
+const baseUrl = 'https://i.imgur.com/';
 const person = {
     name:'Gregorio Y. Zara',
-    image:'https://i.imgur.com/7vQD0fPs.jpg',
+    imageId: '7vQD0fP',
+    imageSize: 's',
     theme: {
         backgroundColor: 'black',
         color: 'pink'
@@ -16,7 +18,7 @@ export default function Todolist() {
             </h1>
 
             <img
-                src={person.image}
+                src={`${baseUrl}${person.imageId}${person.imageSize}.jpg`}
                 className="avatar"
                 alt={person.name}
                 style={person.theme}

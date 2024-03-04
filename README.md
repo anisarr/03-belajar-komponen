@@ -55,3 +55,8 @@ Kode diatas dapat diperbaiki dengan cara menambahkan `fragment` dan menambahkan 
 ![alt text](asset-laporan/05.png)
 Terdapat perbedaan tampilan jika dibandingkan dengan sebelumnya, yaitu pada file `page.tsx` melakukan named import dari file `gallery.tsx` dan default import dari file `todolist.tsx`. Selain itu, pada body juga melakukan pemanggilan fungsi Gallery dan Todolist
 
+## Jawaban Soal 6
+![alt text](asset-laporan/06.png)
+pada atribut src bisa diperbaiki dengan menambahkan simbol $ untuk setiap element yg ditambahkan.
+
+## Jawaban Soal 7
