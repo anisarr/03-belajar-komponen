@@ -50,3 +50,8 @@ Kita dapat memperbaiki kodenya dengan cara mengganti tag div dengan `fragment`. 
 ## Jawaban Soal 4
 ![alt text](image-7.png)
 Kode diatas dapat diperbaiki dengan cara menambahkan `fragment` dan menambahkan `{person.theme}` ke dalam element `style` pada tag `h1`. Kemudian untuk memanggil nama pada element person bisa diperbaiki dengan cara `{person.name}`.
+
+## Jawaban Soal 5
+![alt text](asset-laporan/05.png)
+Terdapat perbedaan tampilan jika dibandingkan dengan sebelumnya, yaitu pada file `page.tsx` melakukan named import dari file `gallery.tsx` dan default import dari file `todolist.tsx`. Selain itu, pada body juga melakukan pemanggilan fungsi Gallery dan Todolist
+

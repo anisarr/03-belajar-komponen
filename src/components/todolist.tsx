@@ -2,6 +2,7 @@ import React from "react";
 
 const person = {
     name:'Gregorio Y. Zara',
+    image:'https://i.imgur.com/7vQD0fPs.jpg',
     theme: {
         backgroundColor: 'black',
         color: 'pink'
@@ -15,9 +16,9 @@ export default function Todolist() {
             </h1>
 
             <img
+                src={person.image}
                 className="avatar"
-                src="https://i.imgur.com/7vQD0fPs.jpg"
-                alt="Gregorio Y. Zara"
+                alt={person.name}
                 style={person.theme}
             />  
              
