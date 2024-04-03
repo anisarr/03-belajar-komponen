@@ -4,7 +4,7 @@ const baseUrl = 'https://i.imgur.com/';
 const person = {
     name:'Gregorio Y. Zara',
     imageId: '7vQD0fP',
-    imageSize: 's',
+    imageSize: 'b',
     theme: {
         backgroundColor: 'black',
         color: 'pink'

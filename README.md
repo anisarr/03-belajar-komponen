@@ -60,3 +60,10 @@ Terdapat perbedaan tampilan jika dibandingkan dengan sebelumnya, yaitu pada file
 pada atribut src bisa diperbaiki dengan menambahkan simbol $ untuk setiap element yg ditambahkan.
 
 ## Jawaban Soal 7
+![alt text](asset-laporan/07.png)
+
+## Jawaban Soal 8
+
+
+## Jawaban Soal 9
+

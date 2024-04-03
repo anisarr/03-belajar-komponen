@@ -1,5 +1,6 @@
 // import Bio from "@/components/bio";
 import { Gallery } from "@/components/gallery";
+import MyGallery from "@/components/mygallery";
 import Todolist from "@/components/todolist";
 
 export default function Home() {
@@ -12,6 +13,7 @@ export default function Home() {
       <Gallery />
       <hr />
       <Todolist />
+      <MyGallery />
     </section>
     
   );
