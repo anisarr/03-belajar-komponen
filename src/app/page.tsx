@@ -1,7 +1,13 @@
 // import Bio from "@/components/bio";
 import { Gallery } from "@/components/gallery";
 import MyGallery from "@/components/mygallery";
+import MyAvatar from "@/components/myprofiledua";
+import MyProfile from "@/components/myprofiledua";
+import MyProfileV2 from "@/components/myprofilev2";
+import Profile from "@/components/profile";
 import Todolist from "@/components/todolist";
+import MyProfileDua from "@/components/myprofiledua";
+// import MyProfileDua from "@/components/myprofiledua";
 
 export default function Home() {
   return (
@@ -14,6 +20,9 @@ export default function Home() {
       <hr />
       <Todolist />
       <MyGallery />
+      <MyProfileDua />
+      <MyProfileV2/>
+
     </section>
     
   );
