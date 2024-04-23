@@ -63,7 +63,9 @@ pada atribut src bisa diperbaiki dengan menambahkan simbol $ untuk setiap elemen
 ![alt text](asset-laporan/07.png)
 
 ## Jawaban Soal 8
+![alt text](asset-laporan/08.png)
 
 
 ## Jawaban Soal 9
+![alt text](asset-laporan/09.png)
 
